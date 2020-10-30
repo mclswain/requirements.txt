@@ -47,11 +47,6 @@
       <artifactId>jackson-databind</artifactId>
     </dependency>
 
-    <dependency> <!-- all modules use junit for testing -->
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <scope>test</scope>
-    </dependency>
   </dependencies>
 
   <build>
