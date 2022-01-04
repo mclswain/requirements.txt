@@ -1,1 +1,0 @@
-This is an actual text file. It has text and characters like $ # @ ! * (1234) (etc) []{}
