@@ -10,3 +10,4 @@ MarkupSafe==1.1.1
 psutil==5.7.2
 python-dotenv==0.14.0
 requests==2.24.0
+file-loader==4.3.0
